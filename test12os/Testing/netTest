@@ -1,0 +1,13 @@
+#!/bin/bash
+# Save as network_test.sh, then: chmod +x network_test.sh
+echo "=== Starting Network Test ==="
+echo "1. Testing DNS resolution..."
+nslookup google.com
+echo "2. Testing ping..."
+ping -c 4 8.8.8.8
+echo "3. Testing download speed..."
+time curl -o /dev/null http://speedtest.tele2.net/10MB.zip
+echo "4. Testing multiple connections..."
+for i in {1..3}; do curl -s http://httpbin.org/bytes/512000 > /dev/null & done
+wait
+echo "=== Test Complete ==="

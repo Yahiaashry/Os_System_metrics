@@ -1,0 +1,93 @@
+# System Monitor Configuration
+# Project 12th - Arab Academy
+# Supports dual platform monitoring: Windows (native) and Python (WSL/Linux)
+
+# Platform Configuration
+platforms:
+  # Windows native monitoring (PowerShell)
+  windows:
+    enabled: true
+    interval: 5 # Collection interval in seconds
+    data_source: "windows"
+    output_dir: "C:/Users/HP/Desktop/Projects/OS-Project/data/windows_data/history"
+    
+  # Python monitoring (WSL/Linux)
+  python:
+    enabled: true
+    interval: 5 # Collection interval in seconds
+    data_source: "python"
+    output_dir: "/home/yahia/12thprojectos/data/python_data/history"
+
+# Monitoring Settings
+monitoring:
+  interval: 5 # Default collection interval in seconds
+  continuous_interval: 60 # Continuous mode interval
+  enable_cache: true
+  cache_ttl: 2 # Cache time-to-live in seconds
+  
+  # Data source tracking
+  track_platform: true # Track which platform collected metrics
+
+# Alert Thresholds
+thresholds:
+  cpu_alert_threshold: 90 # Percentage
+  memory_alert_threshold: 85 # Percentage
+  disk_alert_threshold: 90 # Percentage
+  temp_alert_threshold: 80 # Celsius
+  gpu_alert_threshold: 90 # Percentage
+  gpu_temp_threshold: 85 # Celsius
+  network_latency_threshold: 100 # Milliseconds
+
+# Alert Configuration
+alerts:
+  enable_alerts: true
+  alert_log_only: true # Only log alerts, don't send via email/webhook
+  alert_email: "" # Email address for alerts
+  alert_webhook: "" # Webhook URL for alerts
+
+  # SMTP Configuration (if email alerts enabled)
+  smtp:
+    server: "smtp.gmail.com"
+    port: 587
+    use_tls: true
+    username: ""
+    password: ""
+    from_address: "monitor@localhost"
+    to_address: ""
+
+# Data Retention
+retention:
+  log_retention_days: 30
+  metric_retention_days: 7
+
+# Database Settings
+database:
+  path: "/home/yahia/12thprojectos/metrics.db"
+  auto_cleanup: true
+  
+  # Dual platform support
+  enable_data_source_tracking: true
+  
+  # Data folder structure
+  windows_data_dir: "C:/Users/HP/Desktop/Projects/OS-Project/data/windows_data"
+  python_data_dir: "/home/yahia/12thprojectos/data/python_data"
+
+# Output Formats
+output:
+  default_format: "json"
+  enable_csv: true
+  enable_json: true
+  
+  # Report generation
+  reports_dir: "/home/yahia/12thprojectos/reports"
+  include_charts: true
+  combine_platforms: true # Combine Windows + Python data in reports
+  enable_csv: true
+  enable_json: true
+  enable_xml: false
+  enable_prometheus: false
+
+# Performance Settings
+performance:
+  parallel_execution: true
+  max_parallel_jobs: 10

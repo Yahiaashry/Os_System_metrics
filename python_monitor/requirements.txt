@@ -1,0 +1,19 @@
+# Python Monitor - Advanced Processing Only
+# Project 12th - Arab Academy
+# Member 1: Yahia Ashry - 231027201
+#
+# Data Collection: Windows (PowerShell) / Linux (Bash)
+# Advanced Processing: Python (Analytics, Database, Reporting)
+
+# Database (SQLite is built-in, no external dependency needed)
+
+# Analytics & Reporting
+matplotlib>=3.5.0  # For chart generation in reports
+PyYAML>=6.0        # For config file parsing
+python-dateutil>=2.8.0  # For date/time handling
+
+# Web Server & Monitoring Core
+flask
+flask-cors
+psutil
+rich

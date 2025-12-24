@@ -1,0 +1,204 @@
+:root {
+    --bg-color: #0d1117;
+    --panel-bg: #161b22;
+    --header-bg-gradient: linear-gradient(90deg, #1f293a 0%, #0d1117 100%);
+    --accent-blue: #58a6ff;
+    --accent-cyan: #39d353; /* Using green for cyan-ish accents from image */
+    --accent-purple: #bc8cff;
+    --text-primary: #c9d1d9;
+    --text-secondary: #8b949e;
+    --border-color: #30363d;
+    --neon-blue: #00f0ff;
+    --neon-pink: #ff00de;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #050510; /* Very dark navy/black */
+    color: var(--text-primary);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    height: 100vh;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Header */
+.dashboard-header {
+    background: linear-gradient(90deg, #1a237e 0%, #283593 100%);
+    border-radius: 10px;
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    border: 1px solid #3949ab;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #e8eaf6;
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.distro-pill {
+    background: rgba(0, 0, 0, 0.3);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 13px;
+    color: #4fc3f7;
+    border: 1px solid rgba(79, 195, 247, 0.3);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Grid Layout */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 15px;
+    flex: 1;
+    min-height: 0; /* Allow shrinking */
+}
+
+/* Panel Styles */
+.panel {
+    background-color: #0a0e17;
+    border-radius: 8px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid transparent; /* default */
+}
+
+.panel-header {
+    padding: 12px 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 13px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.panel-content {
+    padding: 15px;
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* Color Themes for Panels */
+/* CPU - Cyan/Blue */
+.cpu-panel { border-color: rgba(0, 240, 255, 0.2); }
+.cpu-panel .panel-header { color: #00f0ff; background: rgba(0, 240, 255, 0.05); }
+
+/* Memory - Pink/Purple */
+.mem-panel { border-color: rgba(255, 0, 222, 0.2); }
+.mem-panel .panel-header { color: #ff00de; background: rgba(255, 0, 222, 0.05); }
+
+/* Disk - Yellow/Orange */
+.disk-panel { border-color: rgba(255, 171, 0, 0.2); }
+.disk-panel .panel-header { color: #ffab00; background: rgba(255, 171, 0, 0.05); }
+
+/* GPU - Purple */
+.gpu-panel { border-color: rgba(138, 43, 226, 0.2); }
+.gpu-panel .panel-header { color: #8a2be2; background: rgba(138, 43, 226, 0.05); }
+
+/* Network - Green */
+.net-panel { border-color: rgba(0, 230, 118, 0.2); }
+.net-panel .panel-header { color: #00e676; background: rgba(0, 230, 118, 0.05); }
+
+/* System - Blue/Grey */
+.sys-panel { border-color: rgba(144, 202, 249, 0.2); }
+.sys-panel .panel-header { color: #90caf9; background: rgba(144, 202, 249, 0.05); }
+
+/* Metrics */
+.metric-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+}
+
+.label {
+    color: var(--text-secondary);
+}
+
+.value {
+    color: #e6edf3;
+    font-weight: 500;
+    text-align: right;
+}
+
+/* Progress Bars */
+.progress-container {
+    height: 6px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+    margin-top: 5px;
+    overflow: hidden;
+    position: relative;
+    width: 100px; /* specific width or flex */
+}
+
+.progress-bar {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.5s ease-out;
+}
+
+.cpu-bar { background-color: #00f0ff; box-shadow: 0 0 10px #00f0ff; }
+.mem-bar { background-color: #ff00de; box-shadow: 0 0 10px #ff00de; }
+.gpu-bar { background-color: #8a2be2; box-shadow: 0 0 10px #8a2be2; }
+.disk-bar { background-color: #ffab00; }
+
+.row-usage {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.usage-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.disk-item {
+    margin-bottom: 10px; 
+}
+.disk-item:last-child { margin-bottom: 0; }
+
+/* Footer */
+.dashboard-footer {
+    text-align: right;
+    font-size: 11px;
+    color: var(--text-secondary);
+    opacity: 0.7;
+}

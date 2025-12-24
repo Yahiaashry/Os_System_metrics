@@ -1,0 +1,17 @@
+services:
+  system-monitor:
+    build: ./python_monitor
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./python_monitor:/app
+    environment:
+      - FLASK_ENV=development
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped

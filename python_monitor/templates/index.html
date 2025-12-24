@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⚡ System Monitor Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        .button-group {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            display: flex;
+            gap: 10px;
+            z-index: 9999;
+        }
+
+        .action-btn {
+            background: #2d3748;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 4px;
+            font-size: 14px;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-family: inherit;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .action-btn:hover {
+            background: #4a5568;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="button-group">
+        <button id="exportMetricsBtn" class="action-btn" title="Download metrics as JSON">
+            📊 Export JSON
+        </button>
+        <button id="generateReportBtn" class="action-btn" title="Generate Text Report">
+            📄 Generate Report
+        </button>
+    </div>
+    <div class="container">
+        <!-- Header -->
+        <header class="dashboard-header">
+            <h1><i class="mdi mdi-linux"></i> WSL SYSTEM MONITOR</h1>
+            <!-- Replaced distro-pill with Visualization Button as requested -->
+            <button id="vizBtn" class="action-btn"
+                style="background-color: #4CAF50; font-weight: bold; border: 1px solid #45a049;">
+                👁️ View Visualization
+            </button>
+            <!-- Hidden original element to prevent JS errors if referenced -->
+            <span id="distro-name" style="display:none;">WSL - Ubuntu</span>
+        </header>
+
+        <script>
+            document.getElementById('vizBtn').addEventListener('click', function () {
+                fetch('/open-visualization')
+                    .then(response => response.text())
+                    .then(data => alert(data))
+                    .catch(error => console.error('Error:', error));
+            });
+        </script>
+
+        <!-- Main Grid -->
+        <div class="dashboard-grid">
+            <!-- CPU PANEL -->
+            <div class="panel cpu-panel">
+                <div class="panel-header">🖥️ CPU Usage</div>
+                <div class="panel-content">
+                    <div class="metric-row">
+                        <span class="label">Usage:</span>
+                        <div class="usage-group">
+                            <span class="value" id="cpu-usage">0%</span>
+                            <div class="progress-container">
+                                <div class="progress-bar cpu-bar" id="cpu-bar" style="width: 0%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Load Avg:</span>
+                        <span class="value" id="cpu-load">0.00, 0.00, 0.00</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Cores:</span>
+                        <span class="value" id="cpu-cores">0</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Model:</span>
+                        <span class="value" id="cpu-model"
+                            style="font-size: 11px; max-width: 200px; text-align: right;">-</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Temp:</span>
+                        <span class="value" id="cpu-temp">N/A</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- MEMORY PANEL -->
+            <div class="panel mem-panel">
+                <div class="panel-header">💾 MEMORY Usage</div>
+                <div class="panel-content">
+                    <div class="metric-row">
+                        <span class="label">Used/Total:</span>
+                        <span class="value" id="mem-used-total">0 / 0 GB</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Usage:</span>
+                        <div class="usage-group">
+                            <span class="value" id="mem-usage">0%</span>
+                            <div class="progress-container">
+                                <div class="progress-bar mem-bar" id="mem-bar" style="width: 0%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Free:</span>
+                        <span class="value" id="mem-free">0 GB</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Buffers/Cache:</span>
+                        <span class="value" id="mem-cache">0 GB</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- DISK PANEL -->
+            <div class="panel disk-panel">
+                <div class="panel-header">💿 DISK (ROOT)</div>
+                <div class="panel-content" id="disk-content">
+                    <!-- Disk items injected via JS -->
+                </div>
+            </div>
+
+            <!-- GPU PANEL -->
+            <div class="panel gpu-panel">
+                <div class="panel-header">🎮 GPU Usage</div>
+                <div class="panel-content">
+                    <div class="metric-row">
+                        <span class="label">Usage:</span>
+                        <div class="usage-group">
+                            <span class="value" id="gpu-usage">0%</span>
+                            <div class="progress-container">
+                                <div class="progress-bar gpu-bar" id="gpu-bar" style="width: 0%"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Temp:</span>
+                        <span class="value" id="gpu-temp">N/A</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">VRAM:</span>
+                        <span class="value" id="gpu-vram">0 / 0 GB</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Vendor:</span>
+                        <span class="value" id="gpu-vendor">-</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Model:</span>
+                        <span class="value" id="gpu-model" style="font-size: 11px;">-</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Type:</span>
+                        <span class="value" id="gpu-type">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- NETWORK PANEL -->
+            <div class="panel net-panel">
+                <div class="panel-header">🌐 NETWORK (ETH0)</div>
+                <div class="panel-content">
+                    <div class="metric-row">
+                        <span class="label">Send:</span>
+                        <span class="value" id="net-send">0 B/s</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Receive:</span>
+                        <span class="value" id="net-recv">0 B/s</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Adapter:</span>
+                        <span class="value" id="net-adapter">-</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">SSID:</span>
+                        <span class="value" id="net-ssid">N/A</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">IPv4:</span>
+                        <span class="value" id="net-ipv4">-</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">IPv6:</span>
+                        <span class="value" id="net-ipv6">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- SYSTEM PANEL -->
+            <div class="panel sys-panel">
+                <div class="panel-header">⚙️ SYSTEM </div>
+                <div class="panel-content">
+                    <div class="metric-row">
+                        <span class="label">Uptime:</span>
+                        <span class="value" id="sys-uptime">-</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Processes:</span>
+                        <span class="value" id="sys-procs">0</span>
+                    </div>
+                    <div class="metric-row">
+                        <span class="label">Users:</span>
+                        <span class="value" id="sys-users">0</span>
+                    </div>
+                  
+                </div>
+            </div>
+        </div>
+
+        <script src="{{ url_for('static', filename='script.js') }}"></script>
+    </div>
+    </div>
+    <script>
+        document.getElementById('exportMetricsBtn').addEventListener('click', () => {
+            const getVal = (id) => document.getElementById(id)?.textContent.trim() || 'N/A';
+
+            const metrics = {
+                timestamp: new Date().toISOString(),
+                system: "WSL Ubuntu",
+                metrics: {
+                    cpu: {
+                        usage: getVal('cpu-usage'),
+                        load: getVal('cpu-load'),
+                        cores: getVal('cpu-cores'),
+                        model: getVal('cpu-model'),
+                        temp: getVal('cpu-temp')
+                    },
+                    gpu: {
+                        usage: getVal('gpu-usage'),
+                        temp: getVal('gpu-temp'),
+                        vram: getVal('gpu-vram'),
+                        vendor: getVal('gpu-vendor'),
+                        model: getVal('gpu-model'),
+                        type: getVal('gpu-type')
+                    },
+                    memory: {
+                        used_total: getVal('mem-used-total'),
+                        usage: getVal('mem-usage'),
+                        free: getVal('mem-free'),
+                        cache: getVal('mem-cache')
+                    },
+                    network: {
+                        send: getVal('net-send'),
+                        recv: getVal('net-recv'),
+                        adapter: getVal('net-adapter'),
+                        ssid: getVal('net-ssid'),
+                        ipv4: getVal('net-ipv4'),
+                        ipv6: getVal('net-ipv6')
+                    },
+                    disk: {
+                        items: Array.from(document.querySelectorAll('.disk-item')).map(item => ({
+                            device: item.querySelector('.metric-row .label')?.textContent.trim(),
+                            percent: item.querySelector('.metric-row .value')?.textContent.trim(),
+                            details: item.querySelectorAll('.metric-row')[1]?.querySelector('.value')?.textContent.trim()
+                        }))
+                    },
+                    system: {
+                        uptime: getVal('sys-uptime'),
+                        processes: getVal('sys-procs'),
+                        users: getVal('sys-users'),
+                        distro: getVal('sys-distro')
+                    }
+                }
+            };
+
+            const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(metrics, null, 2));
+            const downloadAnchorNode = document.createElement('a');
+            const date = new Date();
+            const timestamp = date.toISOString().replace(/[:.]/g, '-').slice(0, 19);
+            downloadAnchorNode.setAttribute("href", dataStr);
+            downloadAnchorNode.setAttribute("download", `metrics_${timestamp}.json`);
+            document.body.appendChild(downloadAnchorNode);
+            downloadAnchorNode.click();
+            downloadAnchorNode.remove();
+        });
+
+        document.getElementById('generateReportBtn').addEventListener('click', () => {
+            const getVal = (id) => document.getElementById(id)?.textContent.trim() || 'N/A';
+
+            // Gather data (similar to JSON but formatted for readabilty)
+            const timestamp = new Date().toLocaleString();
+
+            const report = `WSL SYSTEM MONITOR REPORT
+Generated: ${timestamp}
+==================================================
+
+1. CPU METRICS
+--------------------------------------------------
+Model:     ${getVal('cpu-model')}
+Usage:     ${getVal('cpu-usage')}
+Load Avg:  ${getVal('cpu-load')}
+Cores:     ${getVal('cpu-cores')}
+Temp:      ${getVal('cpu-temp')}
+
+2. MEMORY USAGE
+--------------------------------------------------
+Used/Total: ${getVal('mem-used-total')}
+Percentage: ${getVal('mem-usage')}
+Free:       ${getVal('mem-free')}
+Buffers:    ${getVal('mem-cache')}
+
+3. GPU INFORMATION
+--------------------------------------------------
+Model:     ${getVal('gpu-model')}
+My Vendor: ${getVal('gpu-vendor')}
+Usage:     ${getVal('gpu-usage')}
+VRAM:      ${getVal('gpu-vram')}
+Temp:      ${getVal('gpu-temp')}
+
+4. NETWORK STATS
+--------------------------------------------------
+Interface: ${getVal('net-adapter')}
+IPv4:      ${getVal('net-ipv4')}
+Send:      ${getVal('net-send')}
+Receive:   ${getVal('net-recv')}
+
+5. SYSTEM STATUS
+--------------------------------------------------
+Uptime:    ${getVal('sys-uptime')}
+Distro:    ${getVal('sys-distro')}
+Processes: ${getVal('sys-procs')}
+Users:     ${getVal('sys-users')}
+
+==================================================
+End of Report`;
+
+            const blob = new Blob([report], { type: 'text/plain' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            const dateStr = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
+            a.href = url;
+            a.download = `Status_Report_${dateStr}.txt`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+        });
+    </script>
+</body>
+
+</html>

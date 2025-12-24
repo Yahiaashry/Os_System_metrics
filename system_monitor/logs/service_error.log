@@ -1,0 +1,2346 @@
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line
+awk: cmd. line:1: NR==2 {printf "%.0f", (\$3/\$2)*100}
+awk: cmd. line:1:                        ^ backslash not last character on line

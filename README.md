@@ -1,1 +1,0 @@
-# WSL_System_Metrics_OS

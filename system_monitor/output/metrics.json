@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-12-24T19:48:01Z",
+  "hostname": "LAPTOP-V11F36KT",
+  "metrics": {"cpu": {
+      "usage_percent": 14.5,
+      "temperature_c": "27.9",
+      "cores": 20,
+      "frequency_mhz": "2918"
+    },"memory": {
+      "usage_percent": 87.1,
+      "total_mb": 14029,
+      "used_mb": 12432,
+      "free_mb": 1599
+    },"disk": {
+      "usage_percent": 54,
+      "total_gb": "757",
+      "used_gb": "407",
+      "free_gb": "350",
+      "smart_status": "Healthy"
+    },"network": {
+      "status": "Connected",
+      "interface": "eth0",
+      "rx_bytes": 7565352,
+      "tx_bytes": 169222
+    },"gpu": {
+      "type": "NVIDIA",
+      "usage_percent": 17,
+      "temperature_c": "43",
+      "memory_mb": 1662
+    },"system": {
+      "load_average": "0.08, 0.05, 0.05",
+      "uptime": "36 minutes",
+      "processes": 47,
+      "users": 2,
+      "os": "Windows (WSL)",
+      "kernel": "6.6.87.2-microsoft-standard-WSL2"
+    }}}
